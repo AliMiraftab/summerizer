@@ -1,4 +1,4 @@
-# summerizer
+# Summerizer
 Machine Learning models designed to generate concise and coherent summaries of longer texts. There are several approaches to text summarization, and I'll briefly outline two main types: extractive summarization and abstractive summarization.
 
 This repo focus is on abstractive summarization. Abstractive summarization goes beyond extractive methods by generating new sentences that capture the original text's meaning but may not appear verbatim. This approach requires a deeper understanding of the content and the ability to generate human-like language.
